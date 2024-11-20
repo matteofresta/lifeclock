@@ -82,7 +82,7 @@ export default function ProfessionalLifeClock() {
             <Card className="w-full max-w-md overflow-hidden">
                 <CardHeader className="space-y-1">
                     <div className="flex justify-between items-center">
-                        <CardTitle className="text-2xl font-light">Professional Life Clock</CardTitle>
+                        <CardTitle className="text-2xl font-light">Life Clock</CardTitle>
                         <div className="flex items-center space-x-2">
                             <Sun className="h-4 w-4 text-gray-500 dark:text-gray-400" />
                             <Switch
